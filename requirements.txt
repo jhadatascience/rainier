@@ -4,6 +4,6 @@ numpy
 matplotlib
 logger
 scipy
-mlflow
+mlflow==1.26
 argparse
 kfp
