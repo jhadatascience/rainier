@@ -1,5 +1,5 @@
 netCDF4
-tensorflow
+tensorflow==2.0
 numpy
 matplotlib
 logger
